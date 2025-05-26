@@ -1,2 +1,2 @@
 大学院時代授業で作ったブロック潰しゲーム。proccecingで開発し、外部の小型加速度センサーと連携しており、センサーを傾けることでパドルを操作できる仕組みです。Processing（Javaベース）を使用してゲーム本体を作成し、Arduino IDEで加速度センサーとの通信部分を実装しました。
-bloackbreak.pdeはmain。
+bloackbreak.pdeはmainである。
